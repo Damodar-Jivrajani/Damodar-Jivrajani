@@ -32,8 +32,12 @@
 <img src="https://img.shields.io/badge/LangGraph-%23F3722C?style=for-the-badge" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/LangSmith-%23F3722C?style=for-the-badge" alt="LangSmith"/>
 </div>
+
+
+## **📫 Contact Me**
+- **Email:** [damodarjivrajani551@gmail.com](mailto:damodarjivrajani551@gmail.com) , [damodarjivrajani555@gmail.com](mailto:damodarjivrajani555@gmail.com)   
 <!--
-**Damodar-Jivrajani/Damodar-Jivrajani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+) **Damodar-Jivrajani/Damodar-Jivrajani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
